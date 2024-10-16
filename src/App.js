@@ -1,3 +1,4 @@
+import About from "./Components/About";
 import Features from "./Components/Features";
 import Home from "./Components/Home";
 
@@ -7,6 +8,7 @@ function App() {
     <div className="bg-cyan-dark">
       <Home/>
       <Features/>
+      <About/>
     </div>
   );
 }
