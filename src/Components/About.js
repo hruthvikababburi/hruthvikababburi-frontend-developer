@@ -8,7 +8,7 @@ export default function About() {
         <p className='text-cyan-200 pt-1 text-sm'>At EthAi, we're all about making crypto trading easier and more intuitive. We provide tools that help traders keep up with all new market trends, track top traders' movements.</p>
         <button className='bg-cyan-300 p-1 rounded text-sm mt-6 shadow-sm shadow-cyan-300'>Read more</button>
       </div>
-      <div className='bg-cyan-light border-1 border-cyan-deep-light rounded-lg p-3 mt-8'>
+      <div className='bg-cyan-light border-1 border-cyan-deep-light rounded-lg p-3 mt-8 '>
         <div className='mt-8'>
             <img src='https://res.cloudinary.com/dhumgt3fp/image/upload/v1729073748/graph_gmavsf.png' alt='icon' className='h-5'/>
             <h5 className='text-white pt-1'>Stay Ahead</h5>

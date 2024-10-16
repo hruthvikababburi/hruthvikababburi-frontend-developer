@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function FAQs() {
   return (
-    <div className='p-8 flex flex-col justify-center'>
+    <div className='p-8 flex flex-col justify-center lg:flex-row lg:justify-around '>
         <h1 className='text-white text-2xl pb-2 mb-8 items-start'>Frequently Asked Questions</h1>
         <ul>
             <li className='text-white flex flex-row justify-start items-center mb-6'>
