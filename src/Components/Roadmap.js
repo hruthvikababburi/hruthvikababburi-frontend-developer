@@ -3,7 +3,7 @@ import React from 'react'
 export default function Roadmap() {
   return (
     <div className='p-8'>
-        <h1 className='text-white text-2xl pb-2 text-center font-medium'>Roadmap</h1>
+        <h1 className='text-white text-2xl pb-2 text-center font-medium lg:text-3xl lg:mb-16'>Roadmap</h1>
         <div className='mt-10 lg:flex lg:flex-row lg:justify-between lg:items-center' name='phase1'>
             <div>
                 <span className='bg-white p-1 text-sm border-0 rounded-sm text-black'>PHASE 1</span>

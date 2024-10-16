@@ -19,8 +19,8 @@ export default function Footer() {
         <div className='hidden lg:block'>
             <h3 className='text-white text-2xl font-medium mb-5' >"Designed for traders of today, just like you."</h3>
             <div className='border-1 border-gray-400 rounded-md flex flex-row justify-between items-center pl-2 pr-2'>
-                <span className='text-white text-sm'>What's your work email?</span>
-                <button className='p-2 m-1 rounded lg:text-sm lg:shadow-sm lg:shadow-cyan-300 lg:bg-transparent lg:text-cyan-50'>Open dApp</button>
+                <input className='text-white text-sm w-80 bg-transparent border-none outline-none' type='email' placeholder="What's your work email?"/>
+                <button className='p-2 m-1 rounded lg:text-sm lg:shadow-sm lg:shadow-cyan-300 lg:bg-transparent lg:text-cyan-50'>Get Started</button>
             </div>
         </div>
       

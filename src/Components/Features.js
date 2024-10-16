@@ -3,8 +3,8 @@ import React from 'react'
 export default function Features() {
   return (
     <div className='p-8'>
-      <h1 className='text-white text-2xl pb-2 text-center font-medium'>Our Features</h1>
-      <div className='bg-cyan-light border-1 border-cyan-deep-light rounded-md mt-5 p-3 text-center flex flex-col justify-center items-center'>
+      <h1 className='text-white text-2xl pb-2 text-center font-medium lg:text-3xl'>Our Features</h1>
+      <div className='bg-cyan-light border-1 border-cyan-deep-light rounded-md mt-5 lg:mt-7 p-3 text-center flex flex-col justify-center items-center'>
         <img src='https://res.cloudinary.com/dhumgt3fp/image/upload/v1729061113/img4_ucxhvm.png' alt='img' className='h-16 m-2'/>
         <h2 className='text-white pt-1'>Trade Optimizer</h2>
         <p className='text-cyan-200 pt-1 text-sm'>Find the right moments to buy or sell, with personalized trade suggestions designed to help you make the most of every opportunity.</p>
