@@ -24,7 +24,7 @@ export default function About() {
             <h5 className='text-white pt-1'>Simple, Not Overwhelming</h5>
             <p className='text-cyan-200 pt-1 text-sm'>Our tols are designed to make comple market analysis easy to understand and act on.</p>
         </div>
-        <div className='mt-8'>
+        <div className='mt-8 mb-8'>
             <img src='https://res.cloudinary.com/dhumgt3fp/image/upload/v1729073746/Future_Technology_cwlvgq.png' alt='icon'  className='h-5'/>
             <h5 className='text-white pt-1'>Future-Proof</h5>
             <p className='text-cyan-200 pt-1 text-sm'>We're constantly improving, adding new features to help you make the most informed decisions possible.</p>
