@@ -1,10 +1,12 @@
+import Features from "./Components/Features";
 import Home from "./Components/Home";
 
 
 function App() {
   return (
-    <div className="bg-cyan-dark h-screen">
+    <div className="bg-cyan-dark">
       <Home/>
+      <Features/>
     </div>
   );
 }
