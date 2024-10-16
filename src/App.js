@@ -1,4 +1,5 @@
 import About from "./Components/About";
+import FAQs from "./Components/FAQs";
 import Features from "./Components/Features";
 import Home from "./Components/Home";
 import Roadmap from "./Components/Roadmap";
@@ -13,6 +14,7 @@ function App() {
       <About/>
       <Tokenomics/>
       <Roadmap/>
+      <FAQs/>
     </div>
   );
 }
